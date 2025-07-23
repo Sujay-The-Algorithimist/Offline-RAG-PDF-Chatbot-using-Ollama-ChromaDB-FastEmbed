@@ -13,6 +13,9 @@ This project is a local RAG (Retrieval-Augmented Generation) system that allows 
 - ✅ Completely offline — no API keys or cloud LLMs
 - ✅ Model warm-up for faster first response
 
+
+
+https://github.com/Sujay-The-Algorithimist/Offline-RAG-PDF-Chatbot-using-Ollama-ChromaDB-FastEmbed/blob/main/Screenshot%202025-07-23%20174803.png
 ---
 
 ## 📦 Tech Stack
