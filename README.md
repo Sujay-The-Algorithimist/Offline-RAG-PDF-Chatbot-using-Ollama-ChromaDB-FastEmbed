@@ -15,7 +15,8 @@ This project is a local RAG (Retrieval-Augmented Generation) system that allows 
 
 
 
-https://github.com/Sujay-The-Algorithimist/Offline-RAG-PDF-Chatbot-using-Ollama-ChromaDB-FastEmbed/blob/main/Screenshot%202025-07-23%20174803.png
+![PDF Chatbot Screenshot](https://github.com/Sujay-The-Algorithimist/Offline-RAG-PDF-Chatbot-using-Ollama-ChromaDB-FastEmbed/blob/main/Screenshot%202025-07-23%20174803.png?raw=true)
+
 ---
 
 ## 📦 Tech Stack
